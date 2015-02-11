@@ -1,23 +1,26 @@
 #content {
   margin-top:70px;
+  margin-bottom:100px;
 }
 
 #userGif {
   /*min-height:300px;*/
   border:none;
+  margin-bottom:20px;
 }
 
 #randomGif {
-  height:60px;
-  width:500px;
-  margin:15px auto;
+  height:50px;
+  width:300px;
+  margin:5px auto;
+  display:inline;
 }
 
 
 #shareInput, .share {
   width:300px;
   display:inline;
-  margin:0 10px;
+  margin:0 6px;
 }
 
 iframe {
@@ -25,6 +28,7 @@ iframe {
 }
 
 button {
-  width:500px;
-  margin-top:15px;
+  width:200px;
+  margin-top:5px;
+  display:inline;
 }
